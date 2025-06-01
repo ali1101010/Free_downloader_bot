@@ -1,2 +1,3 @@
-# Free_downloader_bot
-ربات دانلودر تلگرام برای یوتیوب و اینستاگرام
+# Free Downloader Bot
+
+Simple Telegram bot for downloading YouTube and Instagram content.
